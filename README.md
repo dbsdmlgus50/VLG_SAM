@@ -1,7 +1,7 @@
 # VLG_SAM
 <h1>Training-Free Few-Shot Segmentation via Vision-Language Guided Prompting</a></h1>
 
-PyTorch official implementation of (Euihyun Yoon, Taejin Park and Jaekoo Lee. "Training-Free Few-Shot Segmentation via Vision-Language Guided Prompting" WACV, 2026).
+PyTorch official implementation of (Euihyun Yoon, Taejin Park and Jaekoo Lee. "Training-Free Few-Shot Segmentation via Vision-Language Guided Prompting" WACV, 2026).
 
 ## Description
 <img width="1385" height="514" alt="image" src="https://github.com/user-attachments/assets/ea798d39-7094-4b92-83ba-f7100644a8de" />
