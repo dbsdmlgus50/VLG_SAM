@@ -25,7 +25,7 @@ from torchvision.transforms import Compose, ToTensor, Normalize
 from torchvision.transforms.functional import pil_to_tensor, resize, crop
 from torchvision.ops import box_iou, nms
 
-from GEM.dataset_coco import DatasetCOCO
+from dataset_coco import DatasetCOCO
 import utils_seed
 from evaluation import Evaluator
 from logger import Logger, AverageMeter
